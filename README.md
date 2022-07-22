@@ -6,7 +6,7 @@ Descomplicando o Orçamento Público
 
 ## Roadmap
 
-[Trello]()
+[Notion]()
 
 
 ## Tech Stack
