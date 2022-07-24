@@ -11,7 +11,7 @@ Descomplicando o Orçamento Público
 
 ## Tech Stack
 
-**Client:** NextJS, Chakra UI
+**Client:** NextJS, Styled Components
 
 **Server:**
 
